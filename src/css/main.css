@@ -451,7 +451,7 @@ video {
   }
 
   .features-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 24px;
   }
 
@@ -611,14 +611,7 @@ video {
   }
 
   .features-grid {
-    grid-template-columns: repeat(3, 1fr);
     gap: 40px;
-  }
-
-  .feature-card:nth-child(3) {
-    grid-column: auto;
-    max-width: none;
-    margin: 0;
   }
 
   .feature-card {
