@@ -401,6 +401,7 @@ video {
     padding: 0;
     box-shadow: none;
     gap: 24px;
+    border-top: 0;
   }
 
   .nav-toggle {
